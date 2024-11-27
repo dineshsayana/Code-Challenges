@@ -1,7 +1,6 @@
 # Code-Challenges
 -----------
-
-* ###Unique Element Sum
+###Unique Element Sum
 
 Write a function that takes a list of integers and returns the sum of all unique elements. An element is considered unique if it appears exactly once in the list.
 
