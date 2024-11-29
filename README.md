@@ -25,3 +25,21 @@ Explanation: There are no unique elements.
 Input: [1, 2, 3, 4, 5]
 Output: 15
 Explanation: All elements are unique, so their sum is 15.
+-------------
+### Caesar cipher
+
+Write a function that encodes a given string using a simple Caesar cipher, 
+shifting each letter by a specified number of places down the alphabet. 
+The function should handle both uppercase and lowercase letters and ignore non-alphabetical characters.
+
+Input:
+
+A string to encode.
+An integer representing the shift value.
+Output:
+
+The encoded string.
+Example:
+
+Input: "Hello, World!", Shift: 3
+Output: "Khoor, Zruog!"
