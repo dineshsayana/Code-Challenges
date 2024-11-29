@@ -25,6 +25,7 @@ Explanation: There are no unique elements.
 Input: [1, 2, 3, 4, 5]
 Output: 15
 Explanation: All elements are unique, so their sum is 15.
+
 -------------
 ### Caesar cipher
 
